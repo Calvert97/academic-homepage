@@ -48,6 +48,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Calvert_Zzz
+- icon: weibo
+  icon_pack: fab
+  link: https://weibo.com/u/5115543141/home
 - icon: github
   icon_pack: fab
   link: https://github.com/Calvert97
