@@ -14,7 +14,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Inner Mongolia University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,15 +27,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MEng in Control Engineering
+    institution: Inner Mongolia University
+    year: 2021
+  - course: BSc in Control Engineering
+    institution: Inner Mongolia University
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -50,7 +47,7 @@ social:
   link: https://twitter.com/Calvert_Zzz
 - icon: weibo
   icon_pack: fab
-  link: https://weibo.com/u/5115543141/home
+  link: https://weibo.com/CalvertLee
 - icon: github
   icon_pack: fab
   link: https://github.com/Calvert97
