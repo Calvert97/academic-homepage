@@ -29,6 +29,9 @@ education:
   - course: MEng in Control Engineering
     institution: Inner Mongolia University
     year: 2021
+  - course: MEng in Control Engineering
+    institution: Inner Mongolia University
+    year: 2021
   - course: BSc in Control Engineering
     institution: Inner Mongolia University
     year: 2019
